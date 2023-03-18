@@ -1,0 +1,6 @@
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/SpaceCalculator/bin/Debug/SpaceCalculator.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/SpaceCalculator/bin/Debug/SpaceCalculator.pdb
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/SpaceCalculator/obj/Debug/SpaceCalculator.csproj.AssemblyReference.cache
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/SpaceCalculator/obj/Debug/SpaceCalculator.csproj.CoreCompileInputs.cache
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/SpaceCalculator/obj/Debug/SpaceCalculator.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/SpaceCalculator/obj/Debug/SpaceCalculator.pdb

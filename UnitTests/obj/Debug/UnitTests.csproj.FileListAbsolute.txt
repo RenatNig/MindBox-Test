@@ -1,0 +1,11 @@
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/bin/Debug/UnitTests.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/bin/Debug/UnitTests.pdb
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/bin/Debug/nunit.framework.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/bin/Debug/SpaceCalculator.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/bin/Debug/SpaceCalculator.pdb
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/bin/Debug/nunit.framework.xml
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/obj/Debug/UnitTests.csproj.AssemblyReference.cache
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/obj/Debug/UnitTests.csproj.CoreCompileInputs.cache
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/obj/Debug/UnitTests.csproj.CopyComplete
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/obj/Debug/UnitTests.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/SpaceCalculator/UnitTests/obj/Debug/UnitTests.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceCalculator", "SpaceCalculator\SpaceCalculator.csproj", "{95FD314A-E707-4B66-A1DA-F40D4410DC0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{D0211312-E919-48D3-BA8D-5EF5CD44BE11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FD314A-E707-4B66-A1DA-F40D4410DC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FD314A-E707-4B66-A1DA-F40D4410DC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FD314A-E707-4B66-A1DA-F40D4410DC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FD314A-E707-4B66-A1DA-F40D4410DC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0211312-E919-48D3-BA8D-5EF5CD44BE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0211312-E919-48D3-BA8D-5EF5CD44BE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0211312-E919-48D3-BA8D-5EF5CD44BE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0211312-E919-48D3-BA8D-5EF5CD44BE11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
