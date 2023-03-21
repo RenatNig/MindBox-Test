@@ -5,16 +5,18 @@ namespace SpaceCalculator.Entities
 {
     public class Circle : IFigure
     {
-        private double _radius;
+        private double Radius;
 
-        public Circle(double rad)
+        public Circle(double radius)
         {
-            _radius = rad;
+            if (radius <= 0)
+                throw new ArgumentException($"Радиус не может быть отрицательным или равняться нулю {nameof(radius)}");
+            Radius = radius;
         }
 
         public double CalculateSpace(int round = 2)
         {
-            return Math.Round(Math.Pow(_radius,2) * Math.PI,round);
+            return Math.Round(Math.Pow(Radius,2) * Math.PI,round);
         }
     }
 }
